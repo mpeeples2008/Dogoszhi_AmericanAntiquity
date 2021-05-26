@@ -1,0 +1,545 @@
+SWSN_Type,SWSN_Ware,Start_Date,End_Date,Dogoszhi,Black Mesa,Include,Decoration
+Acoma Polychrome,Acoma Matte Paint,1890,1900,0,0,1,polychrome
+Acomita Polychrome,Acoma Matte Paint,1750,1850,0,0,1,polychrome
+Ako Polychrome,Acoma Matte Paint,1700,1750,0,0,1,polychrome
+McCartys Polychrome,Acoma Matte Paint,1850,1875,0,0,1,polychrome
+Adamana Brown,Adamana Brown Ware,300,550,0,0,0,plain
+Sunset White-on-Red,Alameda Brown Ware,1065,1200,0,0,1,bichrome
+Turkey Hill White-on-red,Alameda Brown Ware,1100,1200,0,0,1,bichrome
+Tuzigoot Red-on-black,Alameda Brown Ware,1300,1425,0,0,1,bichrome
+Tuzigoot White-on-Red,Alameda Brown Ware,1300,1425,0,0,1,bichrome
+Babacomari Bichrome,Babacomari Series,700,1300,0,0,1,bichrome
+Babacomari Polychrome,Babacomari Series,1250,1450,0,0,1,polychrome
+Babicora Polychrome,Chihuahuan Series,1200,1450,0,0,1,polychrome
+Carretas Polychrome,Chihuahuan Series,1200,1450,0,0,1,polychrome
+"Chihuahuan polychrome, Undifferentiated",Chihuahuan Series,1200,1450,0,0,2,polychrome
+Corralitos Polychrome,Chihuahuan Series,1200,1450,0,0,1,polychrome
+Dublan Polychrome,Chihuahuan Series,1200,1450,0,0,1,polychrome
+Escondida Polychrome,Chihuahuan Series,1200,1450,0,0,1,polychrome
+Huerigos Polychrome,Chihuahuan Series,1350,1450,0,0,1,polychrome
+Ramos Polychrome,Chihuahuan Series,1200,1450,0,0,1,polychrome
+Villa Ahumada Polychrome,Chihuahuan Series,1350,1450,0,0,1,polychrome
+"Chihuahuan type, Undifferentiated",Chihuahuan Series,1200,1450,0,0,2,undifferentiated dec
+Lino Gray (trachyte),Chuska Gray Ware,550,950,0,0,0,plain
+"Chuska Orange Ware, Undifferentiated",Chuska Orange Ware,825,875,0,0,2,bichrome
+Sanostee Black-on-red,Chuska Orange Ware,825,875,0,0,1,bichrome
+Sanostee Red-on-Orange,Chuska Orange Ware,825,875,0,0,1,bichrome
+Brimhall Black-on-white,Chuska White Ware,1040,1150,1,0,1,bichrome
+Brimhall/Taylor Black-on-white,Chuska White Ware,1000,1150,0,0,1,bichrome
+Burnham Black-on-white,Chuska White Ware,860,1000,0,0,1,bichrome
+Burnham/Newcomb Black-on-white,Chuska White Ware,860,1000,0,0,1,bichrome
+Chuska Black-on-white,Chuska White Ware,1040,1125,1,0,1,bichrome
+"Chuska BMIII/PI Black-on-white, Type Undifferentiated",Chuska White Ware,700,900,0,0,2,bichrome
+"Chuska Carbon Painted White Ware, Undifferentiated",Chuska White Ware,800,1300,0,0,2,bichrome
+"Chuska Mineral Painted White Ware, Undifferentiated",Chuska White Ware,800,1300,0,0,2,bichrome
+"Chuska PI/PII Black-on-white, Type Undifferentiated",Chuska White Ware,700,1100,0,0,2,bichrome
+"Chuska PII Black-on-white, Type Undifferentiated",Chuska White Ware,900,1100,0,0,2,bichrome
+"Chuska PII/PIII Black-on-white, Type Undifferentiated",Chuska White Ware,900,1300,0,0,2,bichrome
+"Chuska PIII Black-on-white, Type Undifferentiated",Chuska White Ware,1100,1300,0,0,2,bichrome
+"Chuska White Ware type, Undifferentiated",Chuska White Ware,800,1300,0,0,2,bichrome
+Chuska/Brimhall Black-on-white,Chuska White Ware,1040,1150,0,0,1,bichrome
+Crozier Black-on-white,Chuska White Ware,800,900,0,0,1,bichrome
+Crumbled House Black-on-white,Chuska White Ware,1150,1300,0,0,1,bichrome
+Drolet Black-on-white,Chuska White Ware,900,1000,0,0,1,bichrome
+Naschitti Black-on-white,Chuska White Ware,900,1000,0,1,1,bichrome
+Naschitti or Newcomb Black-on-white,Chuska White Ware,875,1000,0,0,1,bichrome
+Nava Black-on-white,Chuska White Ware,1100,1275,0,0,1,bichrome
+Nava/Crumbled House Black-on-white,Chuska White Ware,1100,1300,0,0,1,bichrome
+Newcomb Black-on-white,Chuska White Ware,875,1000,0,1,1,bichrome
+Newcomb or Burnham Black-on-white,Chuska White Ware,860,1000,0,0,1,bichrome
+Pena Black-on-white,Chuska White Ware,800,900,0,0,1,bichrome
+Taylor Black-on-white,Chuska White Ware,1000,1100,0,0,1,bichrome
+Theodore Black-on-white,Chuska White Ware,800,825,0,0,1,bichrome
+Toadlena Black-on-white,Chuska White Ware,975,1125,0,0,1,bichrome
+Tunicha Black-on-white,Chuska White Ware,850,900,0,0,1,bichrome
+Lino Gray (Cibola),Cibola Gray Ware,550,950,0,0,2,plain
+Lino Gray Fugitive Red [Cibola Series],Cibola Gray Ware,550,850,0,0,2,plain
+Cebolleta Black-on-white,Cibola White Ware,1000,1200,0,0,1,bichrome
+Chaco Black-on-white,Cibola White Ware,1075,1150,1,0,1,bichrome
+Chaco-McElmo Black-on-white (carbon paint),Cibola White Ware,1090,1175,0,0,1,bichrome
+"Cibola BMIII/PI White Ware, Type Undifferentiated",Cibola White Ware,550,900,0,0,2,bichrome
+"Cibola PI White Ware, Type Undifferentiated",Cibola White Ware,700,900,0,0,2,bichrome
+"Cibola PI/PII White Ware, Type Undifferentiated",Cibola White Ware,700,1100,0,0,2,bichrome
+"Cibola PII White Ware, Type Undifferentiated",Cibola White Ware,880,1100,0,0,2,bichrome
+"Cibola PII/PIII White Ware, Type Undifferentiated",Cibola White Ware,880,1300,0,0,2,bichrome
+"Cibola PIII White Ware, Type Undifferentiated",Cibola White Ware,1100,1300,0,0,2,bichrome
+"Cibola PIII/PIV White Ware, Type Undifferentiated",Cibola White Ware,1200,1325,0,0,2,bichrome
+Corduroy Black-on-white,Cibola White Ware,800,900,0,0,1,bichrome
+Escavada Black-on-white,Cibola White Ware,1000,1100,0,0,1,bichrome
+Escavada-Puerco Black-on-white,Cibola White Ware,1000,1100,0,0,1,bichrome
+Gallup Black-on-white,Cibola White Ware,1040,1150,1,0,1,bichrome
+Gallup or Reserve Black-on-white,Cibola White Ware,1040,1200,0,0,1,bichrome
+Kiatuthlanna Black-on-white,Cibola White Ware,850,925,0,0,1,bichrome
+Kiatuthlanna-Red Mesa Black-on-white,Cibola White Ware,850,1040,0,0,1,bichrome
+Klagetoh Black-on-white,Cibola White Ware,1250,1300,0,0,1,bichrome
+Kowina Black-on-white,Cibola White Ware,1050,1300,0,0,1,bichrome
+La Plata Black-on-white,Cibola White Ware,550,750,0,0,1,bichrome
+La Plata-White Mound Black-on-white,Cibola White Ware,550,850,0,0,1,bichrome
+Lino Black-on-gray (Cibola),Cibola White Ware,600,850,0,0,1,bichrome
+Pinedale Black-on-white,Cibola White Ware,1270,1320,0,0,1,bichrome
+Puerco Black-on-white,Cibola White Ware,1030,1200,0,0,1,bichrome
+Puerco or Red Mesa Black-on-white,Cibola White Ware,880,1200,0,0,1,bichrome
+Puerco-Reserve Black-on-white,Cibola White Ware,1030,1200,0,0,1,bichrome
+Red Mesa Black-on-white,Cibola White Ware,880,1040,0,1,1,bichrome
+Reserve Black-on-white,Cibola White Ware,1050,1200,0,0,1,bichrome
+Reserve/Tularosa Black-on-white,Cibola White Ware,1050,1300,0,0,1,bichrome
+Roosevelt Black-on-white,Cibola White Ware,1270,1320,0,0,1,bichrome
+Snowflake Black-on-white,Cibola White Ware,1100,1275,0,0,1,bichrome
+Snowflake or Puerco Black-on-white,Cibola White Ware,1030,1300,0,0,1,bichrome
+Tularosa Black-on-white,Cibola White Ware,1180,1300,0,0,1,bichrome
+Tularosa/Klagetoh Black-on-white,Cibola White Ware,1180,1300,0,0,1,bichrome
+Tularosa/Pinedale Black-on-white,Cibola White Ware,1175,1325,0,0,1,bichrome
+White Mound Black-on-white,Cibola White Ware,700,850,0,0,1,bichrome
+White Mound-Kiatuthlanna Black-on-white,Cibola White Ware,700,1040,0,0,1,bichrome
+"Coconino Buff Ware, Undifferentiated",Coconino Buff Ware,1050,1150,0,0,2,bichrome
+Coconino Red-on-buff,Coconino Buff Ware,1050,1150,0,0,1,bichrome
+Winona Red-on-buff,Coconino Buff Ware,1050,1150,0,0,1,bichrome
+Benson Red-on-brown,Dragoon Series,750,1150,0,0,1,bichrome
+Cascabel Red-on-brown,Dragoon Series,700,900,0,0,1,bichrome
+Deep Well Red-on-brown,Dragoon Series,750,1150,0,0,1,bichrome
+Dragoon Series Red-on-brown,Dragoon Series,700,1100,0,0,1,bichrome
+"Dragoon Series Red-on-brown, Undifferentiated",Dragoon Series,700,1100,0,0,2,bichrome
+Tres Alamos Red-on-brown,Dragoon Series,900,1100,0,0,1,bichrome
+Kowina Black-on-red,Early White Mountain Red Ware,1225,1300,0,0,1,bichrome
+North Plains Black-on-red,Early White Mountain Red Ware,1200,1300,0,0,1,bichrome
+Puerco Black-on-red,Early White Mountain Red Ware,1000,1175,0,0,1,bichrome
+St. Johns Black-on-red,Early White Mountain Red Ware,1200,1300,0,0,1,bichrome
+Wingate Black-on-red,Early White Mountain Red Ware,1050,1225,0,0,1,bichrome
+North Plains Polychrome,Early White Mountain Red Ware,1200,1300,0,0,1,polychrome
+Springerville Polychrome,Early White Mountain Red Ware,1250,1300,0,0,1,polychrome
+St. Johns Black-on-red or Polychrome,Early White Mountain Red Ware,1200,1300,0,0,1,polychrome
+St. Johns Polychrome,Early White Mountain Red Ware,1200,1300,0,0,1,polychrome
+Techado Polychrome,Early White Mountain Red Ware,1250,1300,0,0,1,polychrome
+Wingate Black-on-red or Polychrome,Early White Mountain Red Ware,1050,1225,0,0,1,polychrome
+Wingate Polychrome,Early White Mountain Red Ware,1100,1225,0,0,1,polychrome
+Wingate/St. Johns Black-on-red or polychrome,Early White Mountain Red Ware,1050,1300,0,0,1,polychrome
+"White Mountain type, Type Undifferentiated; Early",Early White Mountain Red Ware,1000,1300,0,0,2,undifferentiated dec
+Grasshopper Polychrome,Grasshopper Ware,1330,1375,0,0,1,polychrome
+Guadalupe Black-on-white,Guadalupe White Ware,1200,1265,0,0,1,bichrome
+Hawikuh Glaze-on-red,Hawikuh Glaze Ware,1630,1680,0,0,1,bichrome
+Hawikuh Glaze-on-red or polychrome,Hawikuh Glaze Ware,1630,1680,0,0,1,polychrome
+Hawikuh Polychrome,Hawikuh Glaze Ware,1630,1680,0,0,1,polychrome
+Polacca Polychrome,Historic Hopi Yellow Ware,1780,1900,0,0,1,polychrome
+Bidahochi Black-on-white,Hopi White Ware,1325,1400,0,0,1,bichrome
+Hoyapi Black-on-white,Hopi White Ware,1250,1300,0,0,1,bichrome
+Kia-ko Black-on-white,Hopi White Ware,1100,1150,0,0,1,bichrome
+Polacca Black-on-white,Hopi White Ware,1150,1250,0,0,1,bichrome
+"Hopi White Ware, Undifferentiated",Hopi White Ware,1100,1300,0,0,2,undifferentiated
+Huckovi Black-on-orange,Jeddito Orange Ware,1300,1350,0,0,1,bichrome
+Jeddito Black-on-orange,Jeddito Orange Ware,1250,1300,0,0,1,bichrome
+Jeddito Orange,Jeddito Orange Ware,1250,1300,0,0,1,bichrome
+Kokop Black-on-orange,Jeddito Orange Ware,1300,1350,0,0,1,bichrome
+Kwaituki Black-on-orange,Jeddito Orange Ware,1300,1350,0,0,1,bichrome
+Huckovi Polychrome,Jeddito Orange Ware,1300,1350,0,0,1,polychrome
+Jeddito Polychrome,Jeddito Orange Ware,1250,1300,0,0,1,polychrome
+Kokop Polychrome,Jeddito Orange Ware,1300,1350,0,0,1,polychrome
+Kwaituki Polychrome,Jeddito Orange Ware,1300,1350,0,0,1,polychrome
+Awatovi Black-on-yellow,Jeddito Yellow Ware,1300,1350,0,0,1,bichrome
+Awatovi-Jeddito Black-on-yellow,Jeddito Yellow Ware,1300,1375,0,0,1,bichrome
+Equivocal Black-on-Yellow,Jeddito Yellow Ware,1325,1450,0,0,1,bichrome
+Historic Hopi Yellow Ware,Jeddito Yellow Ware,1600,1900,0,0,1,bichrome
+Jeddito Black-on-yellow,Jeddito Yellow Ware,1300,1450,0,0,1,bichrome
+Jeddito Black-on-Yellow A,Jeddito Yellow Ware,1385,1450,0,0,1,bichrome
+Jeddito Black-on-Yellow B,Jeddito Yellow Ware,1450,1629,0,0,1,bichrome
+"Jeddito Black-on-yellow, Undifferentiated",Jeddito Yellow Ware,1300,1629,0,0,2,bichrome
+Jeddito Stippled,Jeddito Yellow Ware,1350,1600,0,0,1,bichrome
+Awatovi Polychrome,Jeddito Yellow Ware,1400,1625,0,0,1,polychrome
+Bidahochi Polychrome,Jeddito Yellow Ware,1325,1400,0,0,1,polychrome
+Jeddito Engraved,Jeddito Yellow Ware,1350,1600,0,0,1,polychrome
+Kawaioku Polychrome,Jeddito Yellow Ware,1400,1625,0,0,1,polychrome
+Paayu Polychrome,Jeddito Yellow Ware,1350,1600,0,0,1,polychrome
+Payupki Polychrome,Jeddito Yellow Ware,1680,1780,0,0,1,polychrome
+San Bernardo Polychrome,Jeddito Yellow Ware,1625,1740,0,0,1,polychrome
+Sikyatki Polychrome,Jeddito Yellow Ware,1375,1625,0,0,1,polychrome
+Sikyatki Polychrome A,Jeddito Yellow Ware,1385,1400,0,0,1,polychrome
+Sikyatki Polychrome B,Jeddito Yellow Ware,1385,1450,0,0,1,polychrome
+Sikyatki Polychrome C,Jeddito Yellow Ware,1450,1629,0,0,1,polychrome
+Sikyatki Polychrome D,Jeddito Yellow Ware,1450,1629,0,0,1,polychrome
+Sikyatki Polychrome E,Jeddito Yellow Ware,1550,1629,0,0,1,polychrome
+"Jeddito Yellow ware, Undifferentiated",Jeddito Yellow Ware,1300,1629,0,0,2,undifferentiated
+Jeddito Black-on-yellow or Polychrome,Jeddito Yellow Ware,1300,1629,0,0,2,undifferentiated dec
+Jemez Black-on-white,Jemez White Ware,1300,1750,0,0,1,bichrome
+Vallecitos Black-on-white,Jemez White Ware,1230,1400,0,0,1,bichrome
+El Paso Bichrome,Jornada Mogollon Brown Ware,1000,1100,0,0,1,bichrome
+Jornada Red-on-brown,Jornada Mogollon Brown Ware,900,1350,0,0,1,bichrome
+El Paso Polychrome,Jornada Mogollon Brown Ware,1100,1350,0,0,1,polychrome
+Jornada Polychrome,Jornada Mogollon Brown Ware,900,1350,0,0,1,polychrome
+Kinishba White-on-red,Kinishba Red Ware,1300,1400,0,0,1,bichrome
+Kinishba Polychrome,Kinishba Ware,1300,1350,0,0,1,polychrome
+Kintiel Black-on-orange,Kintiel-Klagetoh Ware,1275,1300,0,0,1,bichrome
+Klagetoh Black-on-yellow,Kintiel-Klagetoh Ware,1250,1300,0,0,1,bichrome
+Klagetoh Polychrome,Kintiel-Klagetoh Ware,1250,1325,0,0,1,polychrome
+"Kintiel-Klagetoh, Type Undifferentiated",Kintiel-Klagetoh Ware,1250,1325,0,0,2,undifferentiated dec
+Laguna Polychrome,Laguna Matte Paint Ware,1830,1940,0,0,1,polychrome
+Gila White-on-red,Late Middle Gila Red Ware,1300,1350,0,0,1,bichrome
+Pinedale Black-on-red,Late White Mountain Red Ware,1280,1330,0,0,1,bichrome
+Cedar Creek Polychrome,Late White Mountain Red Ware,1300,1350,0,0,1,polychrome
+Cedar Creek/Fourmile Polychrome,Late White Mountain Red Ware,1300,1400,0,0,1,polychrome
+Fourmile Polychrome,Late White Mountain Red Ware,1325,1400,0,0,1,polychrome
+Pinedale Polychrome,Late White Mountain Red Ware,1290,1330,0,0,1,polychrome
+Pinedale/Cedar Creek Polychrome,Late White Mountain Red Ware,1290,1350,0,0,1,polychrome
+Showlow Polychrome,Late White Mountain Red Ware,1300,1400,0,0,1,polychrome
+"White Mountain type, Type Undifferentiated; Late",Late White Mountain Red Ware,1280,1425,0,0,2,undifferentiated dec
+Chevelon Black-on-white,Little Colorado White Ware,1070,1125,0,0,1,bichrome
+Holbrook A Black-on-white,Little Colorado White Ware,1050,1150,0,1,1,bichrome
+Holbrook A/B Black-on-white,Little Colorado White Ware,1050,1150,0,0,1,bichrome
+Holbrook B Black-on-white,Little Colorado White Ware,1050,1150,0,0,1,bichrome
+Holbrook Black-on-white,Little Colorado White Ware,1050,1150,0,0,1,bichrome
+Holbrook/Walnut Black-on-white,Little Colorado White Ware,1050,1250,0,0,1,bichrome
+Leupp Black-on-white,Little Colorado White Ware,1200,1250,0,0,1,bichrome
+"Little Colorado White Ware, Undifferentiated",Little Colorado White Ware,825,1250,0,0,2,bichrome
+Padre Black-on-white,Little Colorado White Ware,1100,1250,1,0,1,bichrome
+Padre/Walnut Black-on-white,Little Colorado White Ware,1100,1250,0,0,1,bichrome
+St. Josephs Black-on-White,Little Colorado White Ware,825,1050,0,0,1,bichrome
+Walnut A Black-on-white,Little Colorado White Ware,1100,1250,0,0,1,bichrome
+Walnut A/B Black-on-white,Little Colorado White Ware,1100,1250,0,0,1,bichrome
+Walnut B Black-on-white,Little Colorado White Ware,1200,1250,0,0,1,bichrome
+Walnut Black-on-white,Little Colorado White Ware,1100,1250,0,0,1,bichrome
+Walnut/Leupp Black-on-white,Little Colorado White Ware,1100,1250,0,0,1,bichrome
+Black Mesa Red-on-buff,Lower Colorado Buff Ware,800,1000,0,0,1,bichrome
+Colorado Red-on-beige,Lower Colorado Buff Ware,800,1050,0,0,1,bichrome
+Colorado Red-on-buff,Lower Colorado Buff Ware,1500,1900,0,0,1,bichrome
+"Lower Colorado Buff Ware type, Undifferentiated",Lower Colorado Buff Ware,800,1900,0,0,2,bichrome
+Palomas Red-on-buff,Lower Colorado Buff Ware,1000,1900,0,0,1,bichrome
+Parker Red-on-buff,Lower Colorado Buff Ware,1000,1900,0,0,1,bichrome
+Salton Red-on-buff,Lower Colorado Buff Ware,1000,1500,0,0,1,bichrome
+Topoc Red-on-buff,Lower Colorado Buff Ware,1000,1400,0,0,1,bichrome
+Tumco Red-on-buff,Lower Colorado Buff Ware,1000,1500,0,0,1,bichrome
+Matsaki Brown-on-buff,Matsaki Buff Ware,1400,1680,0,0,1,bichrome
+Unnamed Red-on-buff,Matsaki Buff Ware,1375,1450,0,0,1,bichrome
+"Matsaki Buff Ware type, Undifferentiated",Matsaki Buff Ware,1400,1680,0,0,1,polychrome
+Matsaki Polychrome,Matsaki Buff Ware,1400,1680,0,0,1,polychrome
+Zuni Buff type,Matsaki Buff Ware,1400,1680,0,0,1,polychrome
+Maverick Mountain Black-on-red,Maverick Mountain Series,1275,1325,0,0,1,bichrome
+Tucson Black-on-red,Maverick Mountain Series,1275,1450,0,0,1,bichrome
+Maverick Mountain Polychrome,Maverick Mountain Series,1275,1325,0,0,1,polychrome
+Nantack Polychrome A,Maverick Mountain Series,1265,1290,0,0,1,polychrome
+Nantack Polychrome B ,Maverick Mountain Series,1265,1290,0,0,1,polychrome
+"Nantack Polychrome, Undifferentiated",Maverick Mountain Series,1265,1290,0,0,1,polychrome
+Prieto Polychrome,Maverick Mountain Series,1275,1400,0,0,1,polychrome
+Tucson Polychrome,Maverick Mountain Series,1275,1450,0,0,1,polychrome
+"Maverick Mountain type, Undifferentiated",Maverick Mountain Series,1275,1450,0,0,2,undifferentiated dec
+Chapin Black-on-white,Mesa Verde White Ware,575,880,0,0,1,bichrome
+Cortez Black-on-white,Mesa Verde White Ware,880,1060,0,1,1,bichrome
+Cortez-Mancos Black-on-white,Mesa Verde White Ware,880,1180,0,0,1,bichrome
+Mancos Black-on-white,Mesa Verde White Ware,980,1180,1,0,1,bichrome
+Mancos/McElmo Black-on-white,Mesa Verde White Ware,980,1260,0,0,1,bichrome
+McElmo Black-on-white,Mesa Verde White Ware,1060,1260,0,0,1,bichrome
+McElmo/Mesa Verde Black-on-white,Mesa Verde White Ware,1060,1280,0,0,1,bichrome
+Mesa Verde Black-on-white,Mesa Verde White Ware,1180,1280,0,0,1,bichrome
+"Mesa Verde BMIII/PI White Ware, Type Undifferentiated",Mesa Verde White Ware,575,920,0,0,2,bichrome
+"Mesa Verde PI White Ware, Type Undifferentiated",Mesa Verde White Ware,750,920,0,0,2,bichrome
+"Mesa Verde PI/PII White Ware, Type Undifferentiated",Mesa Verde White Ware,750,1180,0,0,2,bichrome
+"Mesa Verde PII White Ware, Type Undifferentiated",Mesa Verde White Ware,920,1100,0,0,2,bichrome
+"Mesa Verde PII/PIII White Ware, Type Undifferentiated",Mesa Verde White Ware,920,1280,0,0,2,bichrome
+"Mesa Verde PIII White Ware, Type Undifferentiated",Mesa Verde White Ware,1100,1280,0,0,2,bichrome
+"Mesa Verde White Ware, Undifferentiated",Mesa Verde White Ware,575,1280,0,0,2,bichrome
+Piedra Black-on-white,Mesa Verde White Ware,800,920,0,0,1,bichrome
+Wetherill Black-on-white,Mesa Verde White Ware,1060,1180,0,0,1,bichrome
+White Mesa Black-on-white,Mesa Verde White Ware,850,1000,0,0,1,bichrome
+Tin Cup Polychrome,Mesa Verde White Ware,1000,1100,0,0,1,polychrome
+Casa Grande Red-on-buff,Middle Gila Buff Ware and Gray Ware,1200,1350,0,0,1,bichrome
+Estrella Red-on-gray,Middle Gila Buff Ware and Gray Ware,500,600,0,0,1,bichrome
+Estrella/Sweetwater Red-on-buff,Middle Gila Buff Ware and Gray Ware,300,600,0,0,1,bichrome
+Gila Butte Red-on-buff,Middle Gila Buff Ware and Gray Ware,750,850,0,0,1,bichrome
+Gila Butte/Santa Cruz Red-on-buff,Middle Gila Buff Ware and Gray Ware,750,1000,0,0,1,bichrome
+Gila Butte/Santa Cruz/Sacaton Red-on-buff,Middle Gila Buff Ware and Gray Ware,750,1150,0,0,1,bichrome
+"Middle Gila Buff Ware or Gray Ware, Undifferentiated",Middle Gila Buff Ware and Gray Ware,300,1350,0,0,2,bichrome
+"Middle Gila Buff Ware, Undifferentiated",Middle Gila Buff Ware and Gray Ware,300,1350,0,0,2,bichrome
+"Middle Gila Red-on-gray, Undifferentiated",Middle Gila Buff Ware and Gray Ware,300,1350,0,0,2,bichrome
+Sacaton Red-on-buff,Middle Gila Buff Ware and Gray Ware,950,1150,0,0,1,bichrome
+Sacaton/Casa Grande Red-on-buff,Middle Gila Buff Ware and Gray Ware,950,1350,0,0,1,bichrome
+Santa Cruz Red-on-buff,Middle Gila Buff Ware and Gray Ware,850,1000,0,0,1,bichrome
+Santa Cruz/Sacaton Red-on-buff,Middle Gila Buff Ware and Gray Ware,850,1150,0,0,1,bichrome
+Santa Cruz/Sacaton/Casa Grande Red-on-buff,Middle Gila Buff Ware and Gray Ware,850,1350,0,0,1,bichrome
+Santan Red-on-buff,Middle Gila Buff Ware and Gray Ware,1050,1200,0,0,1,bichrome
+Snaketown Red-on-buff,Middle Gila Buff Ware and Gray Ware,700,750,0,0,1,bichrome
+Snaketown Red-on-buff/gray,Middle Gila Buff Ware and Gray Ware,700,750,0,0,1,bichrome
+Snaketown/Gila Butte Red-on-buff,Middle Gila Buff Ware and Gray Ware,700,850,0,0,1,bichrome
+Snaketown/Gila Butte/Santa Cruz/Sacaton Red-on-buff,Middle Gila Buff Ware and Gray Ware,700,1150,0,0,1,bichrome
+Sweetwater Red-on-gray,Middle Gila Buff Ware and Gray Ware,300,600,0,0,1,bichrome
+Sweetwater/Snaketown Red-on-gray,Middle Gila Buff Ware and Gray Ware,300,800,0,0,1,bichrome
+Sweetwater Polychrome,Middle Gila Buff Ware and Gray Ware,675,700,0,0,1,polychrome
+Galisteo Black-on-white,Middle Rio Grande White Ware,1270,1425,0,0,1,bichrome
+Mimbres Style I Black-on-white (Boldface),Mimbres White Ware,750,900,0,0,1,bichrome
+Mimbres Style I/II Black-on-white,Mimbres White Ware,750,1020,0,0,1,bichrome
+Mimbres Style II Black-on-white (Transitional),Mimbres White Ware,880,1020,0,0,1,bichrome
+Mimbres Style II/III Black-on-white,Mimbres White Ware,970,1020,0,0,1,bichrome
+Mimbres Style III Black-on-white (Classic),Mimbres White Ware,1010,1130,0,0,1,bichrome
+"Mimbres White Ware, Undifferentiated",Mimbres White Ware,900,1130,0,0,2,bichrome
+Three Circle Red-on-white,Mimbres White Ware,725,800,0,0,1,bichrome
+Mimbres Polychrome,Mimbres White Ware,1025,1125,0,0,1,polychrome
+McDonald Corrugated,Mogollon Brown Ware,1150,1280,0,0,1,bichrome
+"Mogollon Black-on-brown, Undifferentiated",Mogollon Brown Ware,1000,1100,0,0,2,bichrome
+"Mogollon Indented Corrugated Red-slipped, White Paint",Mogollon Brown Ware,1000,1400,0,0,1,bichrome
+"Mogollon Indented Corrugated, White Paint",Mogollon Brown Ware,1000,1400,0,0,1,bichrome
+"Mogollon Obliterated Corrugated, White Paint",Mogollon Brown Ware,1000,1400,0,0,1,bichrome
+Mogollon Red-on-brown,Mogollon Brown Ware,775,900,0,0,1,bichrome
+"Mogollon Red-on-brown, Undifferentiated",Mogollon Brown Ware,900,1350,0,0,2,bichrome
+Starkweather Decorated Smudged,Mogollon Brown Ware,1100,1200,0,0,1,bichrome
+Tularosa White-on-red,Mogollon Brown Ware,1200,1350,0,0,1,bichrome
+Cibecue Polychrome,Mogollon Brown Ware,1275,1350,0,0,1,polychrome
+"Mogollon Brown ware, Undifferentiated",Mogollon Brown Ware,900,1400,0,0,2,undifferentiated
+"Mogollon Brown Decorated Corrugated, Undifferentiated",Mogollon Brown Ware,1000,1400,0,0,2,undifferentiated dec
+Gobernador Polychrome,Navajo Painted Ware,1650,1775,0,0,1,polychrome
+Navajo Polychrome,Navajo Painted Ware,1750,1950,0,0,1,polychrome
+Chupadero Black-on-white,Northern Jornada White Ware,1175,1545,0,0,1,bichrome
+Tabira Black-on-white,Northern Jornada White Ware,1550,1672,0,0,1,bichrome
+Kwahe-e Black-on-white,Northern Rio Grande White Ware,1125,1200,0,0,1,bichrome
+Pindi Black-on-white,Northern Rio Grande White Ware,1300,1400,0,0,1,bichrome
+Santa Fe Black-on-white,Northern Rio Grande White Ware,1200,1350,0,0,1,bichrome
+Wiyo Black-on-white,Northern Rio Grande White Ware,1300,1400,0,0,1,bichrome
+Abiquiu Black-on-white (Biscuit A),Northern Rio Grande White Ware,1340,1450,0,0,1,bichrome
+Bandelier Black-on-white (Biscuit B),Northern Rio Grande White Ware,1400,1550,0,0,1,bichrome
+Aquarius Black-on-orange,Prescott Gray Ware,1000,1100,0,0,1,bichrome
+Tuzigoot Black-on-grey,Prescott Gray Ware,1150,1425,0,0,1,bichrome
+Verde Black-on-gray,Prescott Gray Ware,1050,1300,0,0,1,bichrome
+Verde Red-on-buff,Prescott Gray Ware,1150,1425,0,0,1,bichrome
+Showlow Black-on-red,Puerco Valley Red Ware,1030,1200,0,0,1,bichrome
+Showlow Black-on-red Corrugated,Puerco Valley Red Ware,1050,1200,0,0,1,bichrome
+"Puerco Valley Red Ware, Undifferentiated",Puerco Valley Red Ware,1000,1200,0,0,2,undifferentiated
+Elmendorf Black-on-white,Rio Abajo White Ware,1100,1275,0,0,1,bichrome
+Magdelena Black-on-white,Rio Abajo White Ware,1240,1300,0,0,1,bichrome
+San Marcial Black-on-White,Rio Abajo White Ware,750,950,0,0,1,bichrome
+Socorro Black-on-white,Rio Abajo White Ware,1050,1300,0,0,1,bichrome
+Agua Fria Glaze-on-red (Glaze A),Rio Grande Glaze Ware,1313,1500,0,0,1,bichrome
+Cicuye Glaze-on-red (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,bichrome
+Cieneguilla Glaze-on-yellow (Glaze A),Rio Grande Glaze Ware,1321,1450,0,0,1,bichrome
+Espinosa Glaze-on-red (Glaze C),Rio Grande Glaze Ware,1410,1600,0,0,1,bichrome
+Kotyiti Glaze-on-red (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,bichrome
+Kotyiti Glaze-on-yellow (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,bichrome
+Largo Glaze-on-red (Glaze B),Rio Grande Glaze Ware,1400,1450,0,0,1,bichrome
+Largo Glaze-on-yellow (Glaze B),Rio Grande Glaze Ware,1400,1450,0,0,1,bichrome
+Polvadera Glaze-on-red (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,bichrome
+Polvadera Glaze-on-yellow (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,bichrome
+Puaray Glaze-on-red (Glaze E),Rio Grande Glaze Ware,1480,1630,0,0,1,bichrome
+Puaray Glaze-on-yellow (Glaze E),Rio Grande Glaze Ware,1480,1630,0,0,1,bichrome
+San Marcos Glaze-on-red (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,bichrome
+Sanchez Glaze-on-red (Glaze A),Rio Grande Glaze Ware,1350,1425,0,0,1,bichrome
+Sanchez Glaze-on-yellow (Glaze A),Rio Grande Glaze Ware,1350,1425,0,0,1,bichrome
+Yunque Glaze-on-red (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,bichrome
+Cicuye Glaze Polychrome (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,polychrome
+Cieneguilla Glaze Polychrome (Glaze A),Rio Grande Glaze Ware,1321,1450,0,0,1,polychrome
+Encierro Glaze Polychrome (Glaze E),Rio Grande Glaze Ware,1480,1630,0,0,1,polychrome
+Escondido Glaze Polychrome (Glaze E),Rio Grande Glaze Ware,1480,1630,0,0,1,polychrome
+Espinosa Glaze Polychrome (Glaze C),Rio Grande Glaze Ware,1410,1600,0,0,1,polychrome
+Hidden Mountain Polychrome,Rio Grande Glaze Ware,1400,1450,0,0,1,polychrome
+Kotyiti Glaze Polychrome (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,polychrome
+Kuaua Glaze Polychrome (Glaze C),Rio Grande Glaze Ware,1410,1600,0,0,1,polychrome
+Largo Glaze Polychrome (Glaze B),Rio Grande Glaze Ware,1400,1450,0,0,1,polychrome
+Los Padillas Glaze Polychrome (Glaze A),Rio Grande Glaze Ware,1175,1300,0,0,1,polychrome
+Medio Glaze Polychrome (Glaze B),Rio Grande Glaze Ware,1425,1475,0,0,1,polychrome
+Pecos Glaze Polychrome(Glaze E),Rio Grande Glaze Ware,1480,1630,0,0,1,polychrome
+Pottery Mound Polychrome,Rio Grande Glaze Ware,1400,1490,0,0,1,polychrome
+Puaray Glaze Polychrome (Glaze E),Rio Grande Glaze Ware,1480,1630,0,0,1,polychrome
+San Clemente Glaze Polychrome (Glaze A),Rio Grande Glaze Ware,1325,1425,0,0,1,polychrome
+San Lazaro Glaze Polychrome (Glaze D),Rio Grande Glaze Ware,1470,1515,0,0,1,polychrome
+San Marcos Glaze Polychrome (Glaze F),Rio Grande Glaze Ware,1520,1700,0,0,1,polychrome
+Sanchez Glaze Polychrome (Glaze A),Rio Grande Glaze Ware,1350,1425,0,0,1,polychrome
+Tiguex Glaze Polychrome (Glaze E),Rio Grande Glaze Ware,1480,1630,0,0,1,polychrome
+Trenequel Glaze Polychrome (Glaze E),Rio Grande Glaze Ware,1480,1630,0,0,1,polychrome
+"Rio Grande Glaze Ware, Undifferentiated Rim",Rio Grande Glaze Ware,1313,1700,0,0,2,undifferentiated dec
+Casa Colorado Black-on-white,Rio Grande White Ware,1150,1400,0,0,1,bichrome
+"Rio Grande White ware, Undifferentiated",Rio Grande White Ware,1050,1672,0,0,2,bichrome
+Cliff White-on-red,Roosevelt Red Ware,1350,1450,0,0,1,bichrome
+Gila Black-on-red,Roosevelt Red Ware,1300,1375,0,0,1,bichrome
+Pinto Black-on-red,Roosevelt Red Ware,1275,1300,0,0,1,bichrome
+"Pinto Black-on-red, Corrugated",Roosevelt Red Ware,1275,1300,0,0,1,bichrome
+Pinto/Gila Black-on-red,Roosevelt Red Ware,1275,1375,0,0,1,bichrome
+Pinto-Gila Black-on-red,Roosevelt Red Ware,1275,1375,0,0,1,bichrome
+"Roosevelt Black-on-red, Undifferentiated",Roosevelt Red Ware,1275,1375,0,0,2,bichrome
+"Roosevelt White-on-red, Undifferentiated",Roosevelt Red Ware,1300,1350,0,0,2,bichrome
+Cliff Polychrome,Roosevelt Red Ware,1350,1450,0,0,1,polychrome
+"Cliff Polychrome, Corrugated",Roosevelt Red Ware,1350,1450,0,0,1,polychrome
+Cliff/Nine-mile Polychrome,Roosevelt Red Ware,1350,1450,0,0,1,polychrome
+Dinwiddie Polychrome,Roosevelt Red Ware,1350,1450,0,0,1,polychrome
+Gila Polychrome,Roosevelt Red Ware,1325,1450,0,0,1,polychrome
+Gila/Cliff Polychrome,Roosevelt Red Ware,1325,1450,0,0,1,polychrome
+Gila/Tonto Polychrome,Roosevelt Red Ware,1325,1450,0,0,1,polychrome
+"Late Roosevelt Polychrome, Undifferentiated",Roosevelt Red Ware,1350,1450,0,0,1,polychrome
+Los Muertos Polychrome,Roosevelt Red Ware,1375,1450,0,0,1,polychrome
+Ninemile Polychrome,Roosevelt Red Ware,1350,1450,0,0,1,polychrome
+Phoenix Polychrome,Roosevelt Red Ware,1350,1450,0,0,1,polychrome
+Pinto Black-on-red or Polychrome,Roosevelt Red Ware,1280,1330,0,0,1,polychrome
+Pinto Polychrome,Roosevelt Red Ware,1280,1330,0,0,1,polychrome
+Pinto/Gila Polychrome,Roosevelt Red Ware,1300,1450,0,0,1,polychrome
+Pinto-Gila Polychrome,Roosevelt Red Ware,1300,1350,0,0,1,polychrome
+Pinto-Gila Polychrome A,Roosevelt Red Ware,1300,1350,0,0,1,polychrome
+Pinto-Gila Polychrome B,Roosevelt Red Ware,1300,1350,0,0,1,polychrome
+"Roosevelt Polychrome, Undifferentiated",Roosevelt Red Ware,1280,1450,0,0,1,polychrome
+Tonto Polychrome,Roosevelt Red Ware,1350,1450,0,0,1,polychrome
+Tonto-Cliff Polychrome,Roosevelt Red Ware,1340,1450,0,0,1,polychrome
+Whiteriver Polychrome,Roosevelt Red Ware,1360,1450,0,0,1,polychrome
+"Roosevelt Red Ware type, Undifferentiated",Roosevelt Red Ware,1275,1450,0,0,2,undifferentiated
+Salado White-on-red,Salado Series,1150,1450,0,0,1,bichrome
+San Carlos Red-on-brown,San Carlos Brown Ware,1250,1450,0,0,1,bichrome
+San Carlos Red-on-white,San Carlos Brown Ware,1250,1450,0,0,1,bichrome
+Deadmans Black-on-gray,San Francisco Mountain Gray Ware,900,1100,0,0,1,bichrome
+Floyd Black-on-gray,San Francisco Mountain Gray Ware,700,900,0,0,1,bichrome
+Abajo Red-on-orange,San Juan Red Ware,760,880,0,0,1,bichrome
+Bluff Black-on-red,San Juan Red Ware,800,925,0,0,1,bichrome
+Deadmans (La Plata) Black-on-red,San Juan Red Ware,880,1050,0,1,1,bichrome
+Dolores Red,San Juan Red Ware,550,900,0,0,0,plain
+McPhee Black-on-red,San Juan Red Ware,800,925,0,0,1,bichrome
+"San Juan Black-on-red, Undifferentiated",San Juan Red Ware,700,1050,0,0,2,bichrome
+Abajo Polychrome,San Juan Red Ware,850,925,0,0,1,polychrome
+"San Juan Red ware, Undifferentiated",San Juan Red Ware,700,1050,0,0,2,undifferentiated dec
+Cerros Red-on-white,San Simon Series,800,1000,0,0,1,bichrome
+Dos Cabezas Red-on-brown,San Simon Series,650,800,0,0,1,bichrome
+Dos Cabezas/Pinaleno Red-on-brown,San Simon Series,650,900,0,0,1,bichrome
+Encinas Red-on-brown,San Simon Series,950,1200,0,0,1,bichrome
+Encinas Red-on-white,San Simon Series,950,1200,0,0,1,bichrome
+Galiuro Red-on-brown,San Simon Series,700,900,0,0,1,bichrome
+Galiuro/Encinas Red-on-brown,San Simon Series,700,1200,0,0,1,bichrome
+Pinaleno Red-on-brown,San Simon Series,700,800,0,0,1,bichrome
+Pinaleno/Galiuro Red-on-brown,San Simon Series,700,900,0,0,1,bichrome
+"San Simon Red-on-brown, Undifferentiated",San Simon Series,650,1200,0,0,2,bichrome
+Sichomovi Black-on-red,Sichomovi Red Ware,1900,1950,0,0,1,bichrome
+Taos Black-on-white,Taos White Ware,1150,1250,0,0,1,bichrome
+Lincoln Black-on-red,Three Rivers Red Ware,1300,1400,0,0,1,bichrome
+Three Rivers Red-on-terracotta,Three Rivers Red Ware,1125,1300,0,0,1,bichrome
+Aquarius Black-on-brown,Tizon Brown Ware,900,1890,0,0,1,bichrome
+Cerbat Black-on-brown,Tizon Brown Ware,700,1890,0,0,1,bichrome
+Cerbat Red-on-brown,Tizon Brown Ware,700,1890,0,0,1,bichrome
+Trincheras Purple-on-red,Trincheras Series,700,1150,0,0,1,bichrome
+Nogales Polychrome,Trincheras Series,700,1150,0,0,1,polychrome
+Santa Cruz Polychrome,Trincheras Series,1350,1450,0,0,1,polychrome
+Trincheras Polychrome,Trincheras Series,700,1150,0,0,1,polychrome
+"Trincheras type, Undifferentiated",Trincheras Series,700,1150,0,0,2,undifferentiated dec
+Kiet Siel Black-on-red,Tsegi Orange Ware,1250,1320,0,0,1,bichrome
+Medicine Black-on-red,Tsegi Orange Ware,1040,1170,0,0,1,bichrome
+Medicine/Tusayan Black-on-red,Tsegi Orange Ware,1040,1240,0,0,1,bichrome
+Tsegi Black-on-orange,Tsegi Orange Ware,1225,1300,0,0,1,bichrome
+"Tsegi Black-on-red, Undifferentiated",Tsegi Orange Ware,1040,1320,0,0,2,bichrome
+Tsegi Red-on-orange,Tsegi Orange Ware,1200,1300,0,0,1,bichrome
+Tusayan Black-on-red,Tsegi Orange Ware,1045,1240,1,0,1,bichrome
+Cameron Polychrome,Tsegi Orange Ware,1040,1170,1,0,1,polychrome
+Cameron/Tusayan Polychrome,Tsegi Orange Ware,1040,1320,0,0,1,polychrome
+Citadel Polychrome,Tsegi Orange Ware,1040,1200,0,0,1,polychrome
+Citadel/Tusayan Polychrome,Tsegi Orange Ware,1040,1320,0,0,1,polychrome
+Dogoszhi Polychrome,Tsegi Orange Ware,1040,1320,1,0,1,polychrome
+Kayenta Polychrome,Tsegi Orange Ware,1250,1320,0,0,1,polychrome
+Kiet Siel Polychrome,Tsegi Orange Ware,1250,1320,0,0,1,polychrome
+Tsegi Polychrome,Tsegi Orange Ware,1225,1300,0,0,1,polychrome
+"Tsegi Polychrome, Undifferentiated",Tsegi Orange Ware,1040,1320,0,0,2,polychrome
+Tusayan A Polychrome,Tsegi Orange Ware,1110,1320,0,0,1,polychrome
+Tusayan B Polychrome,Tsegi Orange Ware,1110,1320,0,0,1,polychrome
+Tusayan Polychrome,Tsegi Orange Ware,1110,1320,0,0,1,polychrome
+Tsegi Orange,Tsegi Orange Ware,1250,1300,0,0,0,undifferentiated dec
+"Tsegi Orange Ware, Undifferentiated",Tsegi Orange Ware,1000,1300,0,0,2,undifferentiated dec
+Canada del Oro Red-on-brown,Tucson Basin Brown Ware,700,800,0,0,1,bichrome
+Cañada del Oro/Rillito Red-on-brown,Tucson Basin Brown Ware,700,950,0,0,1,bichrome
+Cañada del Oro/Rillito/Rincon Red-on-brown,Tucson Basin Brown Ware,700,1150,0,0,1,bichrome
+Canada del Oro-Gila Butte Red-on-brown,Tucson Basin Brown Ware,700,850,0,0,1,bichrome
+Gila Butte-Canada del Oro style Red-on-brown,Tucson Basin Brown Ware,700,850,0,0,1,bichrome
+Rillito Red-on-brown,Tucson Basin Brown Ware,800,950,0,0,1,bichrome
+"Rillito Red-on-brown, White Slip",Tucson Basin Brown Ware,800,950,0,0,1,bichrome
+Rillito/Rincon Red-on-brown,Tucson Basin Brown Ware,800,1150,0,0,1,bichrome
+"Rillito/Rincon Red-on-brown, White Slip",Tucson Basin Brown Ware,800,1150,0,0,1,bichrome
+Rincon Red-on-brown,Tucson Basin Brown Ware,950,1150,0,0,1,bichrome
+"Rincon Red-on-brown, White Slip",Tucson Basin Brown Ware,950,1150,0,0,1,bichrome
+Rincon/Tanque Verde Red-on-brown,Tucson Basin Brown Ware,950,1350,0,0,1,bichrome
+"Rincon/Tanque Verde Red-on-brown, White Slip",Tucson Basin Brown Ware,950,1350,0,0,1,bichrome
+Sacaton-Rincon style Red-on-brown,Tucson Basin Brown Ware,950,1150,0,0,1,bichrome
+Snaketown style Red-on-brown,Tucson Basin Brown Ware,700,750,0,0,1,bichrome
+Sweetwater style Red-on-brown,Tucson Basin Brown Ware,600,700,0,0,1,bichrome
+Tanque Verde Black-on-brown,Tucson Basin Brown Ware,1150,1350,0,0,1,bichrome
+Tanque Verde Black-on-white,Tucson Basin Brown Ware,1150,1350,0,0,1,bichrome
+Tanque Verde Red-on-brown,Tucson Basin Brown Ware,1150,1350,0,0,1,bichrome
+"Tanque Verde Red-on-brown, White Slip",Tucson Basin Brown Ware,1150,1350,0,0,1,bichrome
+"Tucson Basin Brown Ware, Undifferentiated",Tucson Basin Brown Ware,700,1350,0,0,2,bichrome
+"Tucson Basin Red-on-brown, Undifferentiated",Tucson Basin Brown Ware,700,1350,0,0,2,bichrome
+Rincon Polychrome,Tucson Basin Brown Ware,1000,1100,0,0,1,polychrome
+Rio Rico Polychrome,Tucson Basin Brown Ware,850,1000,0,0,1,polychrome
+Tanque Verde Polychrome,Tucson Basin Brown Ware,1150,1300,0,0,1,polychrome
+Lino Black-on-gray (Tusayan),Tusayan Gray Ware,550,850,0,0,1,bichrome
+Lino Gray (Tusayan),Tusayan Gray Ware,550,950,0,0,0,plain
+Lino Gray Fugitive Red [Tusayan Series],Tusayan Gray Ware,600,880,0,0,0,plain
+Lino/Kana-a Gray,Tusayan Gray Ware,550,1050,0,0,0,plain
+Obelisk Gray,Tusayan Gray Ware,450,800,0,0,0,plain
+Betatakin Black-on-white,Tusayan White Ware,1260,1300,0,0,1,bichrome
+Black Mesa Black-on-white,Tusayan White Ware,900,1100,0,1,1,bichrome
+Black Mesa/Flagstaff Black-on-white,Tusayan White Ware,1000,1220,0,0,1,bichrome
+Black Mesa/Sosi Black-on-white,Tusayan White Ware,1000,1180,0,0,1,bichrome
+Dogoszhi Black-on-white,Tusayan White Ware,1040,1210,1,0,1,bichrome
+Flagstaff Black-on-white,Tusayan White Ware,1150,1220,0,0,1,bichrome
+Kana-a Black-on-white,Tusayan White Ware,825,1000,0,0,1,bichrome
+Kana-a/Black Mesa Black-on-white,Tusayan White Ware,800,1100,0,0,1,bichrome
+Kayenta Black-on-white,Tusayan White Ware,1250,1300,0,0,1,bichrome
+Lino/Kana'a Black-on-White,Tusayan White Ware,550,1050,0,0,1,bichrome
+Shato Black-on-white,Tusayan White Ware,1080,1130,0,0,1,bichrome
+Sosi Black-on-white,Tusayan White Ware,1070,1180,0,0,1,bichrome
+Sosi/Dogozhi Black-on-white,Tusayan White Ware,1040,1210,0,0,1,bichrome
+Tusayan Black-on-white,Tusayan White Ware,1200,1300,0,0,1,bichrome
+"Tusayan BMIII/PI White Ware, Type Undifferentiated",Tusayan White Ware,600,900,0,0,2,bichrome
+"Tusayan PI White Ware, Type Undifferentiated",Tusayan White Ware,800,900,0,0,2,bichrome
+"Tusayan PI/PII White Ware, Type Undifferentiated",Tusayan White Ware,800,1100,0,0,2,bichrome
+"Tusayan PII White Ware, Type Undifferentiated",Tusayan White Ware,900,1100,0,0,2,bichrome
+"Tusayan PII/PIII White Ware, Type Undifferentiated",Tusayan White Ware,900,1300,0,0,2,bichrome
+"Tusayan PIII White Ware, Type Undifferentiated",Tusayan White Ware,1100,1300,0,0,2,bichrome
+"Tusayan White Ware, Undifferentiated",Tusayan White Ware,825,1300,0,0,2,bichrome
+Tusayan/Kayenta Black-on-white,Tusayan White Ware,1200,1300,0,0,1,bichrome
+Wepo Black-on-white,Tusayan White Ware,930,1050,0,0,1,bichrome
+Wupatki Black-on-white,Tusayan White Ware,1125,1300,0,0,1,bichrome
+"Painted Corrugated Ware, Undifferentiated",Undifferentiated Brown Ware,1000,1450,0,0,0,bichrome
+"Buff Ware, Undifferentiated",Undifferentiated Buff Ware,300,1450,0,0,0,undifferentiated
+"Black-on-gray, Undifferentiated",Undifferentiated Decorated,550,1300,0,0,0,bichrome
+"Decorated Brown Ware type, Undifferentiated",Undifferentiated Decorated,700,1450,0,0,0,undifferentiated dec
+"Decorated Type, Undifferentiated",Undifferentiated Decorated,300,1900,0,0,0,undifferentiated dec
+"Glaze-on-red, Undifferentiated",Undifferentiated Glaze Ware,1313,1700,0,0,0,bichrome
+"Glaze-on-yellow, Undifferentiated",Undifferentiated Glaze Ware,1321,1700,0,0,0,bichrome
+"Glaze Polychrome, Undifferentiated",Undifferentiated Glaze Ware,1313,1700,0,0,0,polychrome
+"Early Middle Gila Red-on-brown variant, Undifferentiated",Undifferentiated Middle Gila Red-on-brown variants,700,1150,0,0,0,bichrome
+"Late Middle Gila Red-on-brown variant, Undifferentiated",Undifferentiated Middle Gila Red-on-brown variants,1150,1350,0,0,0,bichrome
+"Middle Gila Red-on-brown variant, Undifferentiated",Undifferentiated Middle Gila Red-on-brown variants,700,1350,0,0,0,bichrome
+"Black-on-orange, Undifferentiated",Undifferentiated Orange Ware,1000,1350,0,0,0,bichrome
+"Orange Ware, Undifferentiated",Undifferentiated Orange Ware,1000,1350,0,0,0,undifferentiated
+"Historic Polychrome, Undifferentiated",Undifferentiated Polychrome,1600,1900,0,0,0,polychrome
+"Polychrome, Undifferentiated",Undifferentiated Polychrome,700,1900,0,0,0,polychrome
+"Black-on-red, Undifferentiated",Undifferentiated Red Ware,700,1700,0,0,0,bichrome
+"White-on-red, Undifferentiated",Undifferentiated Red Ware,1065,1450,0,0,0,bichrome
+"Red Ware type, Undifferentiated",Undifferentiated Red Ware,700,1700,0,0,0,undifferentiated
+"Red-on-brown, Undifferentiated",Undifferentiated Red-on-brown,700,1450,0,0,0,bichrome
+"Type, Undifferentiated",Undifferentiated Ware,200,1900,0,0,0,undifferentiated
+"Undecorated Type, Undifferentiated",Undifferentiated Ware,200,1900,0,0,0,undifferentiated
+"BMIII/PI White Ware, Type Undifferentiated",Undifferentiated White Ware,550,900,0,0,0,bichrome
+"PI White Ware, Type Undifferentiated",Undifferentiated White Ware,700,900,0,0,0,bichrome
+"PI/PII White Ware, Type Undifferentiated",Undifferentiated White Ware,700,1100,0,0,0,bichrome
+"PII White Ware, Type Undifferentiated",Undifferentiated White Ware,900,1100,0,0,0,bichrome
+"PII/PIII White Ware, Type Undifferentiated",Undifferentiated White Ware,900,1300,0,0,0,bichrome
+"PIII White Ware, Type Undifferentiated",Undifferentiated White Ware,1100,1300,0,0,0,bichrome
+"Red-on-white, Undifferentiated",Undifferentiated White Ware,800,1450,0,0,0,bichrome
+"White ware, Undifferentiated",Undifferentiated White Ware,550,1900,0,0,0,bichrome
+Arboles Black-on-white,Upper San Juan White Ware,950,1050,0,0,1,bichrome
+Bancos Black-on-white,Upper San Juan White Ware,825,1000,0,0,1,bichrome
+Gallina Black-on-white,Upper San Juan White Ware,1050,1300,0,0,1,bichrome
+Rosa Black-on-white,Upper San Juan White Ware,700,875,0,0,1,bichrome
+"Upper San Juan White Ware, Undifferentiated",Upper San Juan White Ware,700,1300,0,0,2,bichrome
+"White Mountain type, undifferentiated",White Mountain Red Ware,1000,1450,0,0,2,undifferentiated dec
+Chavez Pass Black-on-red,Winslow Orange Ware,1275,1350,0,0,1,bichrome
+Homolovi Black-on-red,Winslow Orange Ware,1300,1400,0,0,1,bichrome
+Tuwiuca Black-on-orange,Winslow Orange Ware,1250,1300,0,0,1,bichrome
+Tuwiuca White-on-Red,Winslow Orange Ware,1250,1300,0,0,1,bichrome
+Black Ax Polychrome,Winslow Orange Ware,1300,1400,0,0,1,polychrome
+Chavez Pass Polychrome,Winslow Orange Ware,1300,1400,0,0,1,polychrome
+Homolovi Polychrome,Winslow Orange Ware,1300,1400,0,0,1,polychrome
+"Winslow Polychrome, Undifferentiated",Winslow Orange Ware,1300,1400,0,0,2,polychrome
+"Winslow Orange Ware, Petrified Forest, Undifferentiated",Winslow Orange Ware,1250,1400,0,0,2,undifferentiated
+"Winslow Orange Ware, Undifferentiated",Winslow Orange Ware,1250,1400,0,0,2,undifferentiated
+"Winslow Black-on-Orange or Polychrome, Petrified Forest, Undifferentiated",Winslow Orange Ware,1250,1400,0,0,2,undifferentiated dec
+Heshotauthla Black-on-red,Zuni Glaze Ware,1275,1450,0,0,1,bichrome
+Pinnawa Glaze-on-white,Zuni Glaze Ware,1350,1450,0,0,1,bichrome
+Pinnawa Red-on-white,Zuni Glaze Ware,1325,1450,0,0,1,bichrome
+"Zuni Glaze Ware, Undifferentiated",Zuni Glaze Ware,1275,1450,0,0,2,bichrome
+Heshotauthla Black-on-red or Polychrome,Zuni Glaze Ware,1275,1450,0,0,1,polychrome
+Heshotauthla Polychrome,Zuni Glaze Ware,1275,1450,0,0,1,polychrome
+Kechipawan Polychrome,Zuni Glaze Ware,1370,1450,0,0,1,polychrome
+Kwakina Polychrome,Zuni Glaze Ware,1280,1450,0,0,1,polychrome
+"White Mountain type, Undifferentiated; Zuni Glaze",Zuni Glaze Ware,1275,1450,0,0,2,undifferentiated dec
+"Zuni Historic Black-on-red, Undifferentiated",Zuni Matte-Paint Ware,1680,1900,0,0,2,bichrome
+Ashiwi Polychrome,Zuni Matte-Paint Ware,1680,1750,0,0,1,polychrome
+"Historic Zuni type, Undifferentiated",Zuni Matte-Paint Ware,1680,1900,0,0,2,polychrome
+Kiapkwa Polychrome,Zuni Matte-Paint Ware,1770,1800,0,0,1,polychrome
+"Zuni Historic Polychrome, Undifferentiated",Zuni Matte-Paint Ware,1680,1900,0,0,2,polychrome
+Zuni Late Historic Polychrome,Zuni Matte-Paint Ware,1800,1900,0,0,1,polychrome
+Unnamed White-on-red,Zuni Red Ware,1375,1450,0,0,1,bichrome
