@@ -15,7 +15,7 @@ load('apportioned.RData')
 
 wareapp2 <- wareapp
 
-per.list2 <- c('AD900_950','AD950_1000','AD1000_1050','AD1050_1100','AD1100_1150','AD1150_1200')
+per.list2 <- c('AD900','AD950','AD1000','AD1050','AD1100','AD1150')
 lookup.list <- list(c(8:9),c(10:11),c(12:13),c(14:15),c(16:17),c(18:19))
 
 for (i in 1:length(per.list2)) {
@@ -34,7 +34,7 @@ for (i in 1:length(per.list2)) {
 ###TRIM AND RENAME CERAMIC AND ATTRIBUTE DATA FRAMES BY PERIOD######################################
 ####################################################################################################
 
-cer.output <- list(AD900_950,AD950_1000,AD1000_1050,AD1050_1100,AD1100_1150,AD1150_1200)
+cer.output <- list(AD900,AD950,AD1000,AD1050,AD1100,AD1150)
 
 for (i in 1:length(per.list2)) {
   cer <- (cer.output[[i]])
@@ -70,61 +70,64 @@ sim.mat <- function(x) {
   return(results)}
 
 
-AD900_950sim <- sim.mat(AD900_950cer)
-AD950_1000sim <- sim.mat(AD950_1000cer)
-AD1000_1050sim <- sim.mat(AD1000_1050cer)
-AD1050_1100sim <- sim.mat(AD1050_1100cer)
-AD1100_1150sim <- sim.mat(AD1100_1150cer)
-AD1150_1200sim <- sim.mat(AD1150_1200cer)
+AD900sim <- sim.mat(AD900cer)
+AD950sim <- sim.mat(AD950cer)
+AD1000sim <- sim.mat(AD1000cer)
+AD1050sim <- sim.mat(AD1050cer)
+AD1100sim <- sim.mat(AD1100cer)
+AD1150sim <- sim.mat(AD1150cer)
 
 ####################################################################################################
 ###EIGENVECTOR CENTRALITY###########################################################################
 ####################################################################################################
 
-AD900_950ev <- as.matrix(sna::evcent(AD900_950sim))
-AD900_950ev <- sqrt((AD900_950ev^2) * length(AD900_950ev))
+## calculate eigenvector centraility and standardize on star network
 
-AD950_1000ev <- as.matrix(sna::evcent(AD950_1000sim))
-AD950_1000ev <- sqrt((AD950_1000ev^2) * length(AD950_1000ev))
+AD900ev <- as.matrix(sna::evcent(AD900sim))
+AD900ev <- sqrt((AD900ev^2) * length(AD900ev))
 
-AD1000_1050ev <- as.matrix(sna::evcent(AD1000_1050sim))
-AD1000_1050ev <- sqrt((AD1000_1050ev^2) * length(AD1000_1050ev))
+AD950ev <- as.matrix(sna::evcent(AD950sim))
+AD950ev <- sqrt((AD950ev^2) * length(AD950ev))
 
-AD1050_1100ev <- as.matrix(sna::evcent(AD1050_1100sim))
-AD1050_1100ev <- sqrt((AD1050_1100ev^2) * length(AD1050_1100ev))
+AD1000ev <- as.matrix(sna::evcent(AD1000sim))
+AD1000ev <- sqrt((AD1000ev^2) * length(AD1000ev))
 
-AD1100_1150ev <- as.matrix(sna::evcent(AD1100_1150sim))
-AD1100_1150ev <- sqrt((AD1100_1150ev^2) * length(AD1100_1150ev))
+AD1050ev <- as.matrix(sna::evcent(AD1050sim))
+AD1050ev <- sqrt((AD1050ev^2) * length(AD1050ev))
 
-AD1150_1200ev <- as.matrix(sna::evcent(AD1150_1200sim))
-AD1150_1200ev <- sqrt((AD1150_1200ev^2) * length(AD1150_1200ev))
+AD1100ev <- as.matrix(sna::evcent(AD1100sim))
+AD1100ev <- sqrt((AD1100ev^2) * length(AD1100ev))
+
+AD1150ev <- as.matrix(sna::evcent(AD1150sim))
+AD1150ev <- sqrt((AD1150ev^2) * length(AD1150ev))
 
 
-AD900cent <- as.data.frame(cbind(row.names(AD900_950cer),AD900_950ev))
+AD900cent <- as.data.frame(cbind(row.names(AD900cer),AD900ev))
 colnames(AD900cent) <- c('Site','EV_900')
 AD900cent[,2] <- as.numeric(as.vector(AD900cent[,2]))
 
-AD950cent <- as.data.frame(cbind(row.names(AD950_1000cer),AD950_1000ev))
+AD950cent <- as.data.frame(cbind(row.names(AD950cer),AD950ev))
 colnames(AD950cent) <- c('Site','EV_950')
 AD950cent[,2] <- as.numeric(as.vector(AD950cent[,2]))
 
-AD1000cent <- as.data.frame(cbind(row.names(AD1000_1050cer),AD1000_1050ev))
+AD1000cent <- as.data.frame(cbind(row.names(AD1000cer),AD1000ev))
 colnames(AD1000cent) <- c('Site','EV_1000')
 AD1000cent[,2] <- as.numeric(as.vector(AD1000cent[,2]))
 
-AD1050cent <- as.data.frame(cbind(row.names(AD1050_1100cer),AD1050_1100ev))
+AD1050cent <- as.data.frame(cbind(row.names(AD1050cer),AD1050ev))
 colnames(AD1050cent) <- c('Site','EV_1050')
 AD1050cent[,2] <- as.numeric(as.vector(AD1050cent[,2]))
 
-AD1100cent <- as.data.frame(cbind(row.names(AD1100_1150cer),AD1100_1150ev))
+AD1100cent <- as.data.frame(cbind(row.names(AD1100cer),AD1100ev))
 colnames(AD1100cent) <- c('Site','EV_1100')
 AD1100cent[,2] <- as.numeric(as.vector(AD1100cent[,2]))
 
-AD1150cent <- as.data.frame(cbind(row.names(AD1150_1200cer),AD1150_1200ev))
+AD1150cent <- as.data.frame(cbind(row.names(AD1150cer),AD1150ev))
 colnames(AD1150cent) <- c('Site','EV_1150')
 AD1150cent[,2] <- as.numeric(as.vector(AD1150cent[,2]))
 
 
-rm(AD900_950,AD950_1000,AD1000_1050,AD1050_1100,AD1100_1150,AD1150_1200,cer,cer.output,lookup.list,out,wareapp2,warevar,i,per.list2,trim)
+rm(AD900,AD950,AD1000,AD1050,AD1100,AD1150,cer,cer.output,lookup.list,out,wareapp2,warevar,i,per.list2,trim,
+   AD900ev,AD950ev,AD1000ev,AD1050ev,AD1100ev,AD1150ev,cer2)
 
 save.image('network.RData')

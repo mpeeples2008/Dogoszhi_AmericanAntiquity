@@ -327,6 +327,7 @@ sqltext <- paste(sqltext,"FROM Ceramic_type_master INNER JOIN final ON Ceramic_t
                    WHERE (Ceramic_type_master.Decoration='bichrome' Or Ceramic_type_master.Decoration='polychrome' Or Ceramic_type_master.Decoration='undifferentiated dec') AND (Ceramic_type_master.SWSN_Ware Not Like 'Undiff%')
                    GROUP BY final.SWSN_ID, final.Site, Ceramic_type_master.SWSN_Ware")
 
+
 sqlall <- 'SELECT final.SWSN_ID, final.Site, Ceramic_type_master.SWSN_Ware, '
 for (i in 1:length(a.lab)) {
   sqlall <- paste(sqlall,"sum(final.",a.lab[i],")*1 AS ",a.lab[i],", ",sep="")}
