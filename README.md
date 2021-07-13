@@ -1,9 +1,11 @@
+# Dogoszhi Ceramic Analysis - American Antiquity
+
 This repository provides the data and code necessary to reproduce the analyses from the following article:
 
 Giomi, Evan, Barbara J. Mills, Leslie D. Aragon, Benjamin A. Bellorado, and Matthew A. Peeples
 Reading between the Lines: The Social Value of Dogoszhi Style in the Chaco World. _American Antiquity_ in press.
 
-Note that the site locations included in this repository have been jittered and rounded to the nearest 10km to ensure the security of site location informatoin.
+All of the raw data used in this paper come from the [CyberSW database](https://cybersw.org/) and are available online there but also reproduced in this repository for ease of access. Note that the site locations included in this repository have been jittered and rounded to the nearest 10km to ensure the security of site location information.
 
 If you simply want to rerun all of the analyses in the paper and produce new versions of the figures, you can place all of the included files in a single directrory and run the "Dogoszhi_all.R" script which will initialize and call of the required functions and reproduce figures 5-11 from the paper in PDF form. I describe the individual analytical steps and files involved in detail below.
 
@@ -30,9 +32,16 @@ This function will produce a number of new R objects for each 50-year interval a
 * AD900cent - dataframe containing eigenvector centrality scores by site for the relevant interval.
 * AD900sim - dataframe containing the raw Brainard-Robinson symmetric similarity matrix for the relevant interval.
 
-## 3) 
+## 3) Compiling Dogoszhi Data and creating figures
 
-Reference Cited:
+This step, which is conducted using the **Dogoszhi_all.R** script (and a call to the **figures.R** script), consists of compiling all of the apportioned ceramic data into Dogoszhi and Black Mesa style ceramics by time period and then plotting the figures from the article. The first part of the script essentially consists of a series of joins to create the required objects for creating figures. Note that this script also allows you to set the proprtion of Mancos ceramics that should be considered Dogoszhi style as described in the article. The results of this script will be output into a csv file called **All_Analysis.csv** and all objects will be combined into an **All_Analysis.RData** file as well. This script calls on several sub-scripts by time period that all do the same thing (filter and join the data for Dogoszhi and Black Mesa style) formatted as **Dogoszhi_900.R** where the number indicates the beginning of the relevant 50 year interval.
+
+The function relies on two input files as follows:
+* sites.csv - this file contains information on each site in the database including site size, size class, the numbers of great houses, great kivas, and multi-wall strctures, and the coordinate locations, jittered and rounded to the nearest 10km.
+* types.csv - this file contains all ceramic type data included in the CyberSW database with a set of variables "Dogoszhi" and "BlackMesa" which denote whether or not a specific type includes Dogoszhi style or Black Mesa sytle respectively (1 = presence of style in type, 0 = lack of style in type).
+
+
+## Reference Cited:
 
 Roberts, John M., Jr., Barbara J. Mills, Jeffery J. Clark, W. Randall Haas, Jr., Deborah L. Huntley, and Meaghan A. Trowbridge 2012 A method for chronologically apportioning of ceramic assemblages. Journal of Archaeological Science 39(5):1513-1520.
 
